@@ -1,4 +1,4 @@
-## Exploratory Data Analysis - IPL (The Sparks Foundation)
+# Exploratory Data Analysis - IPL (The Sparks Foundation)
 
 
 
@@ -16,13 +16,6 @@
 <img src = "/assets/3.png">
 <img src = "/assets/4.png">
 <br>
-
-## 👉 Application
-
-The ability to predict and analyze COVID-19 data will result in better understanding of the trends in Covid cases of India and will be of great help to government for taking precautionary measures
-```
-  To control and manage the COVID-19 epidemic, and to effectively prevent and respond to future epidemics
-```
 
 
 <br>
@@ -42,6 +35,11 @@ The ability to predict and analyze COVID-19 data will result in better understan
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+<br>
+
+## 📌 Features / Contributions
+* Any contributions you make are greatly appreciated
+* Would be glad to hear about new features to add in the website
 <br>
 
 ## 🪪 License
