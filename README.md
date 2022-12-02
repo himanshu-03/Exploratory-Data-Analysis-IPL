@@ -8,7 +8,7 @@
 - As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 - Suggest teams or players a company should endorse for its products.
 
-> Here is the Dataset: <a href = "https://www.kaggle.com/datasets/hiimanshuagarwal/sports-data">Sports Dataset</a>
+> Here is the Dataset: <a href = "https://www.kaggle.com/datasets/hiimanshuagarwal/ipl-dataset-2008-2020">Sports Dataset</a>
 
 
 <br><br>
